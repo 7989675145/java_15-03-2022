@@ -16,4 +16,7 @@ public class MyUtils {
 		public static int div(int a,int b) {
 			return a/b;
 		}
+		public static int rem(int a,int b){
+			return a%b;
+		}
 }
