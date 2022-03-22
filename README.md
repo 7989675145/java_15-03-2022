@@ -1,1 +1,1 @@
-# java_arithmatic_operations
+# java_arithmetic_operations
